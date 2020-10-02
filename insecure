@@ -1,0 +1,36 @@
+<img src = 'huge-alligator.jpg' alt = 'A huge alligator'>
+<p>The power of the Huge Alligator compels you...</p>
+<p>
+  <a href="http://discord.hugealligator.com">Join the Huge Alligator Discord server</a>
+</p>
+<p>
+  <a href="http://corporate.hugealligator.com">Visit Huge Alligator corporate offices</a>
+</p>
+
+<p>The huge alligator loves and supports you :)</p>
+<img src = 'gaypride.png' alt = 'A proud alligator'>
+
+
+
+<!--
+           .-._   _ _ _ _ _ _ _ _
+.-''-.__.-'00  '-' ' ' ' ' ' ' ' '-.
+'.___ '    .   .--_'-' '-' '-' _'-' '._
+ V: V 'vv-'   '_   '.       .'  _..' '.'.
+   '=.____.=_.--'   :_.__.__:_   '.   : :
+           (((____.-'        '-.  /   : :
+ snd                         (((-'\ .' /
+                           _____..'  .'
+                          '-._____.-'
+						
+contact info@hugealligator.com for more -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="http://www.googletagmanager.com/gtag/js?id=UA-91837673-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-91837673-3');
+</script>
