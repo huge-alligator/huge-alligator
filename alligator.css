@@ -1,4 +1,8 @@
 body {
   cursor: url(resources/huge-alligator-transparent-small.png), auto;
   background-color:lightgrey;
+  a:hover {
+    cursor: url(resources/huge-alligator-open-mouth-transparent-small.png), auto;
+    background-color:lightgrey;
+  }
 }
